@@ -1,0 +1,15 @@
+/* public/style.css */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#p5container {
+  width: 512px;
+  height: 512px;
+}
+
+#p5container canvas {
+  width: 100%;
+  height: 100%;
+}
